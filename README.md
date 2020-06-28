@@ -6,6 +6,7 @@ Welcome to TictactoeCLI Minigames by Ivan Rizkyanto. This game build in java, us
 
 The workspace contains two folders by default, where:
 
+- `build-jar` : the build folder
 - `src`: the folder to maintain sources
 - `lib`: the folder to maintain dependencies
 
