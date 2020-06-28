@@ -1,6 +1,6 @@
 ## Getting Started
 
-Welcome to Tictactoe-cli Minigames by Ivan Rizkyanto. This game build in java, using VS Code for writing the code.
+Welcome to TictactoeCLI Minigames by Ivan Rizkyanto. This game build in java, using VS Code for writing the code.
 
 ## Folder Structure
 
