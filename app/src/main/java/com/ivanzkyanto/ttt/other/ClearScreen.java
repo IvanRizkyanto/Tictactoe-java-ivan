@@ -1,8 +1,7 @@
-package com.ivanriz.tictactoe;
+package com.ivanzkyanto.ttt.other;
 
 public class ClearScreen {
 
-    // constructor
     public void set() {
         clearScreen();
     }
@@ -26,4 +25,5 @@ public class ClearScreen {
             System.out.println("Error!\n" + e.getMessage());
         }
     }
+    
 }

@@ -14,10 +14,10 @@ The workspace contains two folders by default, where:
 
 The `JAVA DEPENDENCIES` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-pack/blob/master/release-notes/v0.9.0.md#work-with-jar-files-directly).
 
-## Run
+## Run using gradle
 
 Open your terminal or cmd, open Tictactoe folder. Then, type this:
 ```
-cd build-jar
-java com.ivanriz.tictactoe.Main
+gradle build
+gradle run
 ```
